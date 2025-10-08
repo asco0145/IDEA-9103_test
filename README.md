@@ -6,3 +6,11 @@ Glitch art is an unconventional style that transforms traditional imagery into s
 
 ### **Part 2**
 A useful coding technique for glitch art is glitch lines, where image data is disrupted by shifting horizontal or vertical pixel strips. In p5.js or Processing, this effect can be created using loadPixels() and updatePixels(), or by redrawing line segments at random offsets. This technique is powerful because it allows precise control over how chaotic or subtle the glitch appears. It would help me recreate the fragmented, distorted look of glitch art while still referencing the original image, aligning well with the assignment’s goal of representing an artwork through code.
+
+![GLitch Art Ex1](https://glitchology.com/wp-content/uploads/2023/11/GLitCH_ART.webp)
+![GLitch Art Ex2](https://happycoding.io/tutorials/processing/images/images/glitch-lines-2.png)
+![GLitch Art Ex3](https://happycoding.io/tutorials/processing/images/images/glitch-lines-5.png)
+
+*References*
+- [Happy Coding](https://happycoding.io/tutorials/processing/images/glitch-lines)
+- [Glitchology](https://glitchology.com/glitch-art-guides/beginners-guide-to-getting-started-with-glitch-art/)
